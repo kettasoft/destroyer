@@ -1,1 +1,2 @@
 # destroyer
+Destroyer is a self-destructing package of project resources. if you are a freelancer and suffer from customer fraud. this package is for you. The package works at your command. in case the client cheats you. you can run the package and destroy all project resources via http.
